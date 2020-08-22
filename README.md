@@ -14,7 +14,7 @@ O sistema desenvolvido também foi responsivo.
 - Resultado
 
 Versão desktop:
-<img src="./src/img/desktop.png" />
+<img src="./src/img/desktop.PNG" />
 
 Versão Mobile:
-<img src="./src/img/mobile.png" />
+<img src="./src/img/mobile.PNG" />
